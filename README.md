@@ -1,6 +1,6 @@
 # Projeto - MoviesLib
 
-🔗 [Clique aqui para acessar](https://vercel.com/anahaubert/movies-lib-react/BLyZUpQULNU3qHoijW3yKNN9Hf4T)
+🔗 [Clique aqui para acessar](movies-lib-react-qxjf2unia-anahaubert.vercel.app)
 
 ## 🛠️ Tecnologias
 
